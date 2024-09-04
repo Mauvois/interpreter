@@ -16,7 +16,6 @@ The IChing Interpreter is a microservice built with FastAPI that serves as the i
 
 - **Backend**: Built using FastAPI, a modern, fast web framework for building APIs with Python.
 - **Integration with Langchain**: Utilizes Langchain to interface with OpenAI's ChatGPT, providing the capability to interpret hexagrams in a meaningful way.
-- **Database**: DuckDB is used to store configuration and runtime data if necessary.
 
 ## Installation
 
